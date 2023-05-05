@@ -13,9 +13,9 @@
 
 # Measurement converter:
 - [x] create main frame via tkinter
-- [ ] create fonts, make sure everything is correct size
-- [ ] gather research about measurement conversions 
-- [ ] write conversion code
-- [ ] test the software
-- [ ] make final changes
+- [x] create fonts, make sure everything is correct size
+- [x] gather research about measurement conversions 
+- [x] write conversion code
+- [x] test the software
+- [x] make final changes
 
