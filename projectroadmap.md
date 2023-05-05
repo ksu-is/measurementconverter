@@ -12,7 +12,7 @@
 - [x] Combine templates into one single folder
 
 # Sprint 3:
--[x] Create splash page ppt
+- [x] Create splash page ppt
 
 # Measurement converter:
 - [x] create main frame via tkinter
