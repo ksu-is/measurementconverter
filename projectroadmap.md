@@ -1,4 +1,4 @@
-## Sprint 1:
+# Sprint 1:
 - [x] Join KSU-IS github team
 - [x] Find prior README.MD and project roadmap documents to use as an examples
 - [x] Create README.MD
@@ -10,6 +10,9 @@
 - [x] Committed at least 6 code changes
 - [x] Include comment explaining each change
 - [x] Combine templates into one single folder
+
+# Sprint 3:
+-[x] Create splash page ppt
 
 # Measurement converter:
 - [x] create main frame via tkinter
